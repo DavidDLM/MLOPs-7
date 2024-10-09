@@ -1,4 +1,4 @@
-# Pipeline de Machine Learning con CI/CD 🚀
+# Generación de paquetes con archivos TOML y publicación en Test PyPI 🚀
 
 **Mario de León**  
 **Jorge Caballeros**
